@@ -8,9 +8,9 @@
 
 * Fullstack developer || Back-End developer
 * Ingenieria de Sistemas Computacionales - Estudiando.
-* Siempre en Constante aprendizaje de nuevas tecnologias,
-* me encanta aprender y enfrentarme a nuevos desafíos.
-La base de todo: Mantenerse en movimiento 🚀
+* Siempre en Constante aprendizaje de nuevas tecnologias.
+* Me encanta aprender y enfrentarme a nuevos desafíos.
+* La base de todo: Mantenerse en movimiento. 🚀
 
 
 
