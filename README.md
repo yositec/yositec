@@ -2,7 +2,8 @@
  
 # Hola! 👋 Soy yosemar de Jesus Castillo Valderrama
 
-![banner](https://user-images.githubusercontent.com/29136516/185747558-69f7131f-fd0b-4b84-972b-842d0c5b86d9.gif)
+![banner](https://user-images.githubusercontent.com/116313313/230793781-8d1af601-2f0e-4bb6-8bc7-003abc3a66aa.png)
+
 
 * Fullstack developer || Back-End developer
 * Ingenieria de Sistemas Computacionales - Estudiando.
