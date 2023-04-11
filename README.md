@@ -36,7 +36,8 @@ const yositec = {
       Deploy: [ "Vercel", "Railway" ],
     },
     contact: {
-      email: "yojecava.dev@gmail.com"
+      email: "yojecava.dev@gmail.com",
+      linkedin: "https://www.linkedin.com/in/yosemar-de-jesus-castillo-valderrama",
     }
   }; 
   
